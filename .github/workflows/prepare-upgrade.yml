@@ -6,7 +6,7 @@ env:
   base_branch: master
   pr_branch: master-upgrade
   MISSING_MEDIA: link
-  REMOTE_MEDIA_PATH: https://www.dropbox.com/sh/g5swtlhfrgp22zh/AAAE6eReprM6RFD4DcTDv7ova
+  REMOTE_MEDIA_PATH: http://gofile.me/5rv7p/62fS7nzrt
 
 on: workflow_dispatch 
 
