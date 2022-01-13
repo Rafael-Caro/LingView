@@ -6,7 +6,7 @@ env:
   base_branch: master
   pr_branch: master-upgrade
   MISSING_MEDIA: link
-  REMOTE_MEDIA_PATH: http://gofile.me/5rv7p/62fS7nzrt
+  REMOTE_MEDIA_PATH: https://gofile-3572763770.de8.quickconnect.to/fsdownload/62fS7nzrt/afb-bka-ci-si-002
 
 on: workflow_dispatch 
 
